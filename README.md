@@ -1,4 +1,4 @@
-# Hello Git World — Local Edition
+# Hello Git World — 我的第一个项目
 
 这是一个用于学习 Git + GitHub 的项目。
 
